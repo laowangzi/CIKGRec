@@ -1,0 +1,15 @@
+org_id remap_id
+http://dbpedia.org/ontology/translator 0
+http://dbpedia.org/ontology/language 1
+http://dbpedia.org/ontology/coverArtist 2
+http://dbpedia.org/ontology/lastAppearance 3
+http://www.w3.org/2000/01/rdf-schema#seeAlso 4
+http://dbpedia.org/ontology/publisher 5
+http://dbpedia.org/ontology/illustrator 6
+http://dbpedia.org/ontology/basedOn 7
+http://purl.org/linguistics/gold/hypernym 8
+http://dbpedia.org/property/books 9
+http://dbpedia.org/ontology/wikiPageWikiLink 10
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type 11
+http://dbpedia.org/ontology/literaryGenre 12
+

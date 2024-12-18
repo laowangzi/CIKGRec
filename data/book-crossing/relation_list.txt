@@ -1,0 +1,5 @@
+org_id remap_id
+book.written_work.date_of_first_publication 0
+book.written_work.author 1
+book.written_work.literary_series 2
+book.book.genre 3
