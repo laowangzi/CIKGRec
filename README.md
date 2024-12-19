@@ -1,5 +1,5 @@
 # CIKGRec: Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models
-*This is the Torch implementation for our proposed GIKGRec (Accepted at AAAI 2025).*
+*This is the Torch implementation for our proposed GIKGRec (Accepted at AAAI 2025). [Paper Link](https://arxiv.org/abs/2412.13544)*
 ![Illustration](./pics/illustrate.png)
 ## Introduction
 ![Framework](./pics/framework.png)
@@ -36,4 +36,15 @@ The following outlines the structure of the repository and provides a brief expl
 * `user_interest_clustered.txt`: PreProcessed user intrerest graph (The output of `Structration_User_Knowledge.py`).
 * `kg_final.txt`: The Knowledge graph.
 * `xx_list.txt`: *Original ID - Remap ID* projection file.
+
+## Citation 
+If you find our work helpful, please cite:
+```
+@article{Hu2024CIKGRec,
+author = {Zheng Hu and Zhe Li and Ziyun Jiao and Satoshi Nakagawa and Jiawen Deng and Shimin Cai and Tao Zhou and Fuji Ren},
+title = {Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models},
+year = {2024},
+journal = {arXiv:2412.13544},
+}
+```
 
