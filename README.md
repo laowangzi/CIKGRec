@@ -1,5 +1,6 @@
-# CIKGRec: Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models
-*This is the Torch implementation for our proposed GIKGRec (Accepted at AAAI 2025). [Paper Link](https://arxiv.org/abs/2412.13544)*
+# [AAAI-2025] CIKGRec: Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models
+*This is the Torch implementation for our proposed GIKGRec. [Paper Link](https://arxiv.org/abs/2412.13544)*
+
 ![Illustration](./pics/illustrate.png)
 ## Introduction
 ![Framework](./pics/framework.png)
